@@ -45,9 +45,12 @@ def fetch_updates():
         paragraphs = [p.get_text(" ", strip=True) for p in section.find_all("p")]
         description = next((p for p in paragraphs if p and not p.startswith("Published ")), title)
         image = section.find("img", src=True)
+        image_url = urljoin(SOURCE, image["src"]) if image else ""
+        image_url = re.sub(r"https://i\.ytimg\.com/vi_webp/([^/]+)/([^/]+)\.webp$",
+                           r"https://i.ytimg.com/vi/\1/\2.jpg", image_url)
         updates.append({"title": title, "url": url, "published": published,
                         "description": re.sub(r"\s+", " ", description)[:1200],
-                        "image_url": urljoin(SOURCE, image["src"]) if image else ""})
+                        "image_url": image_url})
     unique = {item["url"]: item for item in updates}
     if not unique:
         raise RuntimeError("No update entries found; refusing to overwrite the feed")
