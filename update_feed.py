@@ -24,7 +24,7 @@ HEADERS = {"User-Agent": "FramerUpdatesRSS/1.0 (+https://github.com/kyetbed/fram
 def fetch_updates():
     response = requests.get(SOURCE, headers=HEADERS, timeout=30)
     response.raise_for_status()
-    soup = BeautifulSoup(response.text, "html.parser")
+    soup = BeautifulSoup(response.content, "html.parser")
     updates = []
     for section in soup.find_all("section"):
         heading = section.find("h2")
@@ -129,7 +129,7 @@ def main():
     ordered = sorted(merged.values(),
                      key=lambda item: datetime.strptime(item["pubDate"], "%a, %d %b %Y %H:%M:%S %z"),
                      reverse=True)
-    if discovered or not FEED.exists():
+    if discovered or not FEED.exists() or ordered != previous:
         write_feed(ordered)
     print(f"Feed has {len(ordered)} items; {len(discovered) if previous else 0} new")
 
