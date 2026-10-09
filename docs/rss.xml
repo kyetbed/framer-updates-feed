@@ -10,14 +10,14 @@
       <link>https://www.framer.com/updates/firewall</link>
       <guid>https://www.framer.com/updates/firewall</guid>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Introducing Firewall. Redirect or block visitors based on their country, the path they request, or both. Restrict access to specific pages, or send visitors to a specific locale if your site uses localization. To get started, open Site Settings â Hosting â Firewall, add a rule, and publish your project. Available with the Advanced Hosting add-on and on Enterprise plans. Learn more .</description>
+      <description>Introducing Firewall. Redirect or block visitors based on their country, the path they request, or both. Restrict access to specific pages, or send visitors to a specific locale if your site uses localization. To get started, open Site Settings → Hosting → Firewall, add a rule, and publish your project. Available with the Advanced Hosting add-on and on Enterprise plans. Learn more .</description>
     </item>
     <item>
       <title>Skills</title>
       <link>https://www.framer.com/updates/skills</link>
       <guid>https://www.framer.com/updates/skills</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Introducing Skills, a new way to teach the Framer agent how you work. Save instructions for your design system, writing style, or CMS workflow and reuse them across tasks. Reference @pages , @components , and @styles in your project to help the agent follow your design direction, while you keep control of the result on the canvas. To get started, use /skills to ask the agent to create or update a skill. After a conversation where youâve refined a page or a piece of copy, ask the agent to capture the decisions you want to reuse next time. Skills stay with a project when someone remixes it, so template creators can now include guidance for adding new pages and content with their template while staying true to their design. Learn more about Skills .</description>
+      <description>Introducing Skills, a new way to teach the Framer agent how you work. Save instructions for your design system, writing style, or CMS workflow and reuse them across tasks. Reference @pages , @components , and @styles in your project to help the agent follow your design direction, while you keep control of the result on the canvas. To get started, use /skills to ask the agent to create or update a skill. After a conversation where you’ve refined a page or a piece of copy, ask the agent to capture the decisions you want to reuse next time. Skills stay with a project when someone remixes it, so template creators can now include guidance for adding new pages and content with their template while staying true to their design. Learn more about Skills .</description>
     </item>
     <item>
       <title>Pinned Projects</title>
@@ -31,7 +31,7 @@
       <link>https://www.framer.com/updates/cms-list-field</link>
       <guid>https://www.framer.com/updates/cms-list-field</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>You can now better manage repeating content like FAQs, product features, tutorial steps, and cases studies with the new List field in the Framerâs CMS. Rather than duplicating fields like Title 1 , Description 1 , Title 2 , Description 2 , you can group items in a single list and add or reorder rows as you would in a CMS table. Your content editors can spend less time juggling fields and more time keeping your site fresh. To migrate existing content, ask the Framer Agent to convert repeated CMS fields into a List. The Agent will also take care of reconnecting the CMS data on the Canvas. If you have a list that is not shown on the Canvas yet, you can easily add it from the Insert panel. Alternatively, select a card youâve designed and use the newly added Repeat property to repeat it for each list item. Watch the video to learn more. Weâve also added features, fixed bugs, and made improvements across the CMS. See a complete list below.</description>
+      <description>You can now better manage repeating content like FAQs, product features, tutorial steps, and cases studies with the new List field in the Framer’s CMS. Rather than duplicating fields like Title 1 , Description 1 , Title 2 , Description 2 , you can group items in a single list and add or reorder rows as you would in a CMS table. Your content editors can spend less time juggling fields and more time keeping your site fresh. To migrate existing content, ask the Framer Agent to convert repeated CMS fields into a List. The Agent will also take care of reconnecting the CMS data on the Canvas. If you have a list that is not shown on the Canvas yet, you can easily add it from the Insert panel. Alternatively, select a card you’ve designed and use the newly added Repeat property to repeat it for each list item. Watch the video to learn more. We’ve also added features, fixed bugs, and made improvements across the CMS. See a complete list below.</description>
     </item>
   </channel>
 </rss>
