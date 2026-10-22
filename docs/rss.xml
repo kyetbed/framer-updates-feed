@@ -6,6 +6,13 @@
     <description>Updates published at framer.com/updates</description>
     <language>en</language>
     <item>
+      <title>Framer MCP</title>
+      <link>https://www.framer.com/updates/framer-mcp</link>
+      <guid>https://www.framer.com/updates/framer-mcp</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Introducing the Framer MCP . Connect your favorite AI tools to Framer through the Model Context Protocol. Your agent can work on the canvas, manage CMS content, publish your site, and more. It works wherever your AI tool does, from your desktop to your phone. Connect your AI tool to get started. Be sure to watch the Academy lesson for a full walkthrough. We think you’ll love it.</description>
+    </item>
+    <item>
       <title>Firewall</title>
       <link>https://www.framer.com/updates/firewall</link>
       <guid>https://www.framer.com/updates/firewall</guid>
