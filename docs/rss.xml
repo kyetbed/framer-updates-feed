@@ -6,6 +6,20 @@
     <description>Updates published at framer.com/updates</description>
     <language>en</language>
     <item>
+      <title>CMS Update: Multiplayer Cursors</title>
+      <link>https://www.framer.com/updates/cms-update-multiplayer-cursors</link>
+      <guid>https://www.framer.com/updates/cms-update-multiplayer-cursors</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>We’ve added collaborative editing with multiplayer cursors to formatted text fields in the CMS and on the Canvas, so you can see who’s editing and where. We’ve also refreshed Canvas cursors to make them more compact and with higher contrast. Formatted text now also supports website embeds and Vimeo videos through an updated insert menu. Additionally, in the CMS view, you can filter collections by references and multi-references. Check out the full list of improvements.</description>
+    </item>
+    <item>
+      <title>Asset Panel Refresh</title>
+      <link>https://www.framer.com/updates/asset-panel</link>
+      <guid>https://www.framer.com/updates/asset-panel</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Introducing a refreshed Assets panel. You can now organize your assets in a way that makes sense to you, mixing and matching Components, Colors, Text Styles, Code Overrides, and Vectors in folders instead of working within fixed sections. With new agents support the Framer Agents can now also organize and manage your assets for you to keep your projects tidy.</description>
+    </item>
+    <item>
       <title>Framer MCP</title>
       <link>https://www.framer.com/updates/framer-mcp</link>
       <guid>https://www.framer.com/updates/framer-mcp</guid>
