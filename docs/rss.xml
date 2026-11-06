@@ -6,6 +6,27 @@
     <description>Updates published at framer.com/updates</description>
     <language>en</language>
     <item>
+      <title>Convert Update</title>
+      <link>https://www.framer.com/updates/convert-update</link>
+      <guid>https://www.framer.com/updates/convert-update</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today, we’re adding Agent support and country-based triggers to Convert . You can now ask the Framer Agent to create, edit, and analyze funnels and A/B tests, or add and edit triggers. You can use country-based triggers to show overlays based on a visitor’s country or region. For example, you can show visitors in Spain a banner promoting an upcoming event taking place in Barcelona.</description>
+    </item>
+    <item>
+      <title>Harness 2</title>
+      <link>https://www.framer.com/updates/harness-2</link>
+      <guid>https://www.framer.com/updates/harness-2</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>We rebuilt the Framer Agent’s harness to take on whole workflows in a single program. It can read your document, make decisions, and apply changes while the model is still writing the next steps, so you see progress sooner. The new approach uses 2x fewer tool steps and 39% fewer cached input tokens per message, and brings the same capabilities to external agents through MCP. Read the technical blog post for a closer look at Harness 2.</description>
+    </item>
+    <item>
+      <title>Localization Update: Content Panel &amp; Opt-In</title>
+      <link>https://www.framer.com/updates/localization-opt-in</link>
+      <guid>https://www.framer.com/updates/localization-opt-in</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The brand-new Content panel makes managing localized content easier than ever. It gives you a clear overview of all your pages, collections and components across locales, and you can decide which ones to include, keep untranslated, or hide entirely. You can also apply these preferences to multiple items, or to all your locales at once. Also, when adding a new locale, you can choose to include all content by default or keep it untranslated. This gives you the flexibility to localize a site gradually, for example starting with just your homepage and including other pages over time.</description>
+    </item>
+    <item>
       <title>CMS Update: Multiplayer Cursors</title>
       <link>https://www.framer.com/updates/cms-update-multiplayer-cursors</link>
       <guid>https://www.framer.com/updates/cms-update-multiplayer-cursors</guid>
