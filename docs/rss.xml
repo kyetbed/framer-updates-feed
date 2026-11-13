@@ -6,6 +6,13 @@
     <description>Updates published at framer.com/updates</description>
     <language>en</language>
     <item>
+      <title>Image and Shader Generation</title>
+      <link>https://www.framer.com/updates/image-shader-generation</link>
+      <guid>https://www.framer.com/updates/image-shader-generation</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Introducing image generation and generated shaders in Framer. Ask the Agent for a custom image, texture, or illustration that fits your site. You can also drop an image into the chat or select one on the canvas, then ask the Agent to swap the subject, remove the background, or restyle it. Shaders work the same way. Ask the Agent for a shader, like a halftone, bokeh blur, CRT, pencil effect, or describe a specific effect you saw online, like “smudge an image on pointer drag.” It can also tweak a Framer shader that’s already on your canvas. Image and Shader generation work together too. The Agent can generate an image and set it as the input of an image shader, for example one that turns it into a pen drawing with an ink smudge on mouse move.</description>
+    </item>
+    <item>
       <title>Convert Update</title>
       <link>https://www.framer.com/updates/convert-update</link>
       <guid>https://www.framer.com/updates/convert-update</guid>
